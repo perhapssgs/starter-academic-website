@@ -63,8 +63,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+西安邮电大学（Xi’an University of Posts & Telecommunications）简称西邮、西安邮电，是中华人民共和国工业和信息化部与陕西省政府共建高校、陕西省省属高水平大学、教育部“卓越工程师教育培养计划”实施高校、国家级大学生创新创业训练计划立项高校、教育部”新工科研究与实践项目“入选高校、长安联盟、CDIO工程教育联盟成员单位，中国人民解放军后备军官选拔培养基地、全国首批试办边防军人子女预科班的高校、西北地区唯一承担亚太电信组织和东盟培训任务的高校，已发展成一所以工学为主，以信息科学技术为特色，工、理、管、经、文、法、艺多学科协调发展的教学研究型大学。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
